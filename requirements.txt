@@ -1,0 +1,8 @@
+email-validator
+beautifulsoup4
+requests
+numpy
+pandas
+scikit-learn
+tensorflow
+python-dotenv
